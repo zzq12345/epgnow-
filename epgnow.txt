@@ -390,48 +390,37 @@
 <channel id="70018"><display-name lang="zh">美亞電影台 </display-name></channel>
 <channel id="70019"><display-name lang="zh">Thrill</display-name></channel>
 <channel id="70020"><display-name lang="zh">天映經典頻道 </display-name></channel>
-<channel id="70021"><display-name lang="zh">中國電影頻道</display-name></channel>
-<channel id="70022"><display-name lang="zh">Paramount Network</display-name></channel>
-<channel id="70023"><display-name lang="zh">KIX</display-name></channel>
-<channel id="70024"><display-name lang="zh">歐洲體育台</display-name></channel>
-<channel id="70025"><display-name lang="zh">BBC Earth</display-name></channel>
-<channel id="70026"><display-name lang="zh">Love Nature HD</display-name></channel>
-<channel id="70027"><display-name lang="zh">Love Nature 4K</display-name></channel>
-<channel id="70028"><display-name lang="zh">動物星球頻道</display-name></channel>
-<channel id="70029"><display-name lang="zh">Discovery頻道</display-name></channel>
-<channel id="70030"><display-name lang="zh">Discovery科學頻道</display-name></channel>
-<channel id="70031"><display-name lang="zh">Global Trekker</display-name></channel>
-<channel id="70032"><display-name lang="zh">ROCK Action</display-name></channel>
-<channel id="70033"><display-name lang="zh">ROCK 綜藝娛樂</display-name></channel>
-<channel id="70034"><display-name lang="zh">AXN</display-name></channel>
-<channel id="70035"><display-name lang="zh">GEM</display-name></channel>
-<channel id="70036"><display-name lang="zh">Animax</display-name></channel>
-<channel id="70037"><display-name lang="zh">tvN</display-name></channel>
-<channel id="70038"><display-name lang="zh">無線衛星亞洲台</display-name></channel>
-<channel id="70039"><display-name lang="zh">創世電視</display-name></channel>
-<channel id="70040"><display-name lang="zh">FASHION ONE</display-name></channel>
-<channel id="70041"><display-name lang="zh">Mezzo Live HD</display-name></channel>
-<channel id="70042"><display-name lang="zh">BBC Lifestyle </display-name></channel>
-<channel id="70043"><display-name lang="zh">神州新聞台</display-name></channel>
-<channel id="70044"><display-name lang="zh">無綫新聞台</display-name></channel>
-<channel id="70045"><display-name lang="zh">TVBS新聞台</display-name></channel>
-<channel id="70046"><display-name lang="zh">亞洲新聞台</display-name></channel>
-<channel id="70047"><display-name lang="zh">半島電視台英語頻道</display-name></channel>
-<channel id="70048"><display-name lang="zh">France 24 </display-name></channel>
-<channel id="70049"><display-name lang="zh">DW新聞台</display-name></channel>
-<channel id="70050"><display-name lang="zh">NHK World-Japan</display-name></channel>
-<channel id="70051"><display-name lang="zh">Arirang TV</display-name></channel>
-<channel id="70052"><display-name lang="zh">BBC World News</display-name></channel>
-<channel id="70053"><display-name lang="zh">myTV SUPER直播足球1台</display-name></channel>
-<channel id="70054"><display-name lang="zh">myTV SUPER直播足球2台</display-name></channel>
-<channel id="70055"><display-name lang="zh">myTV SUPER直播足球3台</display-name></channel>
-<channel id="70056"><display-name lang="zh">myTV SUPER直播足球4台</display-name></channel>
-<channel id="70057"><display-name lang="zh">myTV SUPER直播足球5台</display-name></channel>
-<channel id="70058"><display-name lang="zh">東方衛視國際頻道</display-name></channel>
-<channel id="70059"><display-name lang="zh">鳳凰中文</display-name></channel>
-<channel id="70060"><display-name lang="zh">鳳凰資訊</display-name></channel>
-<channel id="70061"><display-name lang="zh">鳳凰香港</display-name></channel>
-
+<channel id="70021"><display-name lang="zh">ROCK Action</display-name></channel>
+<channel id="70022"><display-name lang="zh">KIX</display-name></channel>
+<channel id="70023"><display-name lang="zh">Love Nature HD</display-name></channel>
+<channel id="70024"><display-name lang="zh">Love Nature 4K</display-name></channel>
+<channel id="70025"><display-name lang="zh">Global Trekker</display-name></channel>
+<channel id="70026"><display-name lang="zh">ROCK 綜藝娛樂</display-name></channel>
+<channel id="70027"><display-name lang="zh">AXN</display-name></channel>
+<channel id="70028"><display-name lang="zh">GEM</display-name></channel>
+<channel id="70029"><display-name lang="zh">Animax</display-name></channel>
+<channel id="70030"><display-name lang="zh">tvN</display-name></channel>
+<channel id="70031"><display-name lang="zh">無線衛星亞洲台</display-name></channel>
+<channel id="70032"><display-name lang="zh">創世電視</display-name></channel>
+<channel id="70033"><display-name lang="zh">FASHION ONE</display-name></channel>
+<channel id="70034"><display-name lang="zh">Mezzo Live HD</display-name></channel>
+<channel id="70035"><display-name lang="zh">東方衛視海外版</display-name></channel>
+<channel id="70036"><display-name lang="zh">鳳凰中文</display-name></channel>
+<channel id="70037"><display-name lang="zh">鳳凰資訊</display-name></channel>
+<channel id="70038"><display-name lang="zh">鳳凰香港</display-name></channel>
+<channel id="70039"><display-name lang="zh">神州新聞台</display-name></channel>
+<channel id="70040"><display-name lang="zh">無綫新聞台</display-name></channel>
+<channel id="70041"><display-name lang="zh">亞洲新聞台</display-name></channel>
+<channel id="70042"><display-name lang="zh">半島電視台英語頻道</display-name></channel>
+<channel id="70043"><display-name lang="zh">France 24 </display-name></channel>
+<channel id="70044"><display-name lang="zh">DW新聞台</display-name></channel>
+<channel id="70045"><display-name lang="zh">NHK World-Japan</display-name></channel>
+<channel id="70046"><display-name lang="zh">Arirang TV</display-name></channel>
+<channel id="70047"><display-name lang="zh">myTV SUPER直播足球1台</display-name></channel>
+<channel id="70048"><display-name lang="zh">myTV SUPER直播足球2台</display-name></channel>
+<channel id="70049"><display-name lang="zh">myTV SUPER直播足球3台</display-name></channel>
+<channel id="70050"><display-name lang="zh">myTV SUPER直播足球4台</display-name></channel>
+<channel id="70051"><display-name lang="zh">myTV SUPER直播足球5台</display-name></channel>
 
 
 <channel id="700101"><display-name lang="zh">翡翠台</display-name></channel>
