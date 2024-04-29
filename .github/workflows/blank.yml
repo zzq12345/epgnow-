@@ -1,0 +1,31 @@
+name: Run PHP and upload XML
+
+on:
+  push:
+    branches:
+      - main  # 更改这里的分支名
+
+jobs:
+  run_php_and_upload:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup PHP
+      uses: shivammathur/setup-php@v2
+      with:
+        php-version: '7.0'
+
+    - name: Install dependencies
+      run: composer install  # 如果需要的话
+
+    - name: Run PHP script
+      run: php your_script.php  # 更改为你的PHP脚本文件名
+
+    - name: Upload XML file
+      uses: actions/upload-artifact@v2
+      with:
+        name: result-xml
+        path: path/to/your/xml/file.xml  # 更改为你生成的XML文件的路径
