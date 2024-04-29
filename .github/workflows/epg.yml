@@ -19,10 +19,10 @@ jobs:
         php-version: '7.4'
 
     - name: Run PHP Script
-      run: php mytvsuper.php  # 替换为你的 PHP 文件名称
+      run: php ./mytvsuper.php  # 替换为你的 PHP 文件名称
 
     - name: Upload XML
       uses: actions/upload-artifact@v2
       with:
         name: generated-xml
-        path: path/to/mytvsuper.xml  # 替换为生成的 XML 文件路径
+        path: ./mytvsuper.xml  # 替换为生成的 XML 文件路径
