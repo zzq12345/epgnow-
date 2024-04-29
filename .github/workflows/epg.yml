@@ -1,31 +1,28 @@
-name: Run PHP and upload XML
+name: PHP Workflow
 
 on:
   push:
     branches:
-      - main  # 更改这里的分支名
+      - main  # 你可以根据需要更改分支名称
 
 jobs:
-  run_php_and_upload:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout Repository
       uses: actions/checkout@v2
 
-    - name: Setup PHP
+    - name: Set up PHP
       uses: shivammathur/setup-php@v2
       with:
-        php-version: '7.0'
+        php-version: '7.4'
 
-    - name: Install dependencies
-      run: composer install  # 如果需要的话
+    - name: Run PHP Script
+      run: php mytvsuper.php  # 替换为你的 PHP 文件名称
 
-    - name: Run PHP script
-      run: php your_script.php  # 更改为你的PHP脚本文件名
-
-    - name: Upload XML file
+    - name: Upload XML
       uses: actions/upload-artifact@v2
       with:
-        name: result-xml
-        path: path/to/your/xml/file.xml  # 更改为你生成的XML文件的路径
+        name: generated-xml
+        path: path/to/mytvsuper.xml  # 替换为生成的 XML 文件路径
