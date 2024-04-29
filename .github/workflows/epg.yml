@@ -1,9 +1,9 @@
-name: PHP Workflow
+name: Run PHP Script and Upload XML
 
 on:
   push:
     branches:
-      - main  # 你可以根据需要更改分支名称
+      - main
 
 jobs:
   build:
@@ -19,10 +19,10 @@ jobs:
         php-version: '7.4'
 
     - name: Run PHP Script
-      run: php epgmytvsuper.php  # 替换为你的 PHP 文件名称
+      run: php .github/epgmytvsuper.php
 
     - name: Upload XML
       uses: actions/upload-artifact@v2
       with:
         name: generated-xml
-        path: ./mytvsuper.xml  # 替换为生成的 XML 文件路径
+        path: epgmytvsuper.xml  # 根据生成的 XML 文件路径进行调整
